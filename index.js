@@ -11,4 +11,4 @@ async function getChessData(callData) {
 	return await json
 }
 
-print(getChessData(callData))
+console.log(getChessData(callData))
